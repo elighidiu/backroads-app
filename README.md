@@ -1,3 +1,5 @@
+Project Scope -> Change a HTML app into a React app
+
 #### Create New React App
 
 #### Setup Structure
